@@ -22,8 +22,8 @@ Hello thank you for your interest to join our team. To evaluate your expertise w
 
 (i) Customer Account :
 
-- Allow users to create an account by providing their name and email.
-- Users must log in before placing an order.
+- Allow customer to create an account by providing their name, email and phone number.
+- customer must log in before placing an order.
 
 (ii) Admin Account :
 
@@ -34,7 +34,7 @@ Hello thank you for your interest to join our team. To evaluate your expertise w
 
 2. Wishlist & Shopping Cart Management
 
-- Allow users to add/remove products from their shopping cart and wishlist .
+- Allow customer to add/remove products from their shopping cart and wishlist .
 - Use local storage to temporarily store the shopping cart and wishlist data.
 - Once the user logs in, sync the local storage data with the database to persist the shopping cart and wishlist.
 
@@ -46,7 +46,7 @@ Hello thank you for your interest to join our team. To evaluate your expertise w
 
 4. Payment Gateway Integration
 
-- Integrate Stripe as the payment gateway so that customers can easily pay online when placing their order.
+- Integrate Stripe or SSL Commerze as payment gateway so that customers can easily pay online when placing their order.
 - Offer a Cash on Delivery (COD) option for customers who prefer not to make an immediate online payment.
 
 5. Order Submission and Database Storage
@@ -77,11 +77,11 @@ Hello thank you for your interest to join our team. To evaluate your expertise w
 
 ## Submission :
 
-- Project deployment URL
-- Admin credentials to check dashboard functionalities
-- Customer credentials to check shopping cart functionalities
-- GitHub repository (ensure that your code visibility is set to public for further assessment)
+Please submit your task by replying this email, submission deadline 11:59 PM, 22nd February 2025.
 
-Thank you!
+- Project deployment URL
+- An admin credentials to check dashboard functionalities
+- A customer credentials to check shopping cart functionalities
+- GitHub repository (ensure that your code visibility is set to public for further assessment)
 
 Please note: We didn't provide you with a specific design either frontEnd or backEnd to allow your creativity to shine. Feel free to to design as your own. You are also welcome to use your previous projects
