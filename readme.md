@@ -1,6 +1,7 @@
 ### Initial skill Assessment task for MERN stack Developer
 
-Hello thank you for your interest to join our team. To evaluate your expertise we've designed a task where you'll building a modern, user-friendly eCommerce platform that showcases any kind of products (you prefer) in an engaging way, making it easy for customers to browse, purchase, and stay informed. The platform will feature a sleek design, seamless navigation, and secure payment options to ensure a smooth shopping experience. Please check further
+Hello
+Thank you for your interest to join our team. To evaluate your expertise we've designed a task where you'll building a modern eCommerce platform that showcases any kind of products (you prefer) in an engaging way, making it easy for customers to browse, purchase, and stay informed. The platform will feature a sleek design, seamless navigation, and secure payment options to ensure a smooth shopping experience. Please check further
 
 # Tech Preference:
 
@@ -46,10 +47,16 @@ Hello thank you for your interest to join our team. To evaluate your expertise w
 
 4. Payment Gateway Integration
 
-- Integrate Stripe or SSL Commerze as payment gateway so that customers can easily pay online when placing their order.
+- Integrate Stripe as payment gateway so that customers can easily pay online when placing their order.
 - Offer a Cash on Delivery (COD) option for customers who prefer not to make an immediate online payment.
 
-5. Order Submission and Database Storage
+5. Multi-Currency Support
+
+- Allow users to view prices in different currencies based on their location. Use a real-time currency conversion API .
+- Local customers: BDT
+- International customers: USD
+
+6. Order Submission and Database Storage
 
 - Populate the order data into the database using Mongoose .
 - Include the following fields in the order:
@@ -59,17 +66,17 @@ Hello thank you for your interest to join our team. To evaluate your expertise w
 - Payment method (e.g., "Online Payment" or "Cash on Delivery").
 - Orders should be stored in a dedicated orders collection in MongoDB.
 
-6. Real-Time Order Status Updates
+7. Real-Time Order Status Updates
 
 - Provide real-time updates on the order status (e.g., "Confirmed," "Processing," "Shipped," "Delivered").
 - Use any email service (e.g., SendGrid , Mailgun , or SMTP ) to notify customers via email at each stage of the order process.
 
-7. Customer Profile
+8. Customer Profile
 
 - Customer can see their order histories
 - Manage profile
 
-8. Admin Panel
+9. Admin Panel
 
 - Manage Products
 - Manage Orders update status (e.g., "Confirmed," "Processing," "Shipped," "Delivered") .
@@ -77,11 +84,11 @@ Hello thank you for your interest to join our team. To evaluate your expertise w
 
 ## Submission :
 
-Please submit your task by replying this email, submission deadline 11:59 PM, 22nd February 2025.
+Please submit your task by replying [ career@enaema.com ], submission deadline 11:59 PM, 22nd February 2025.
 
 - Project deployment URL
 - An admin credentials to check dashboard functionalities
 - A customer credentials to check shopping cart functionalities
 - GitHub repository (ensure that your code visibility is set to public for further assessment)
 
-Please note: We didn't provide you with a specific design either frontEnd or backEnd to allow your creativity to shine. Feel free to to design as your own. You are also welcome to use your previous projects
+Please note: We have included some assets here to inspire you on how the user interface should look. While it is not mandatory to follow them, feel free to use them as a reference and create your own unique idea.
