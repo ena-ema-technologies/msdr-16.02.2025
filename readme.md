@@ -9,6 +9,7 @@ Thank you for your interest to join our team. To evaluate your expertise we've d
 
 - Use Next.js as framework.
 - Use Tailwind CSS for styling UI.
+- Any of your preferred component library.
 - Use Redux Toolkit for state management to handle shopping cart, wishlist, user authentication
 
 ### Backend:
@@ -84,11 +85,11 @@ Thank you for your interest to join our team. To evaluate your expertise we've d
 
 ## Submission :
 
-Please submit your task by replying [ career@enaema.com ], submission deadline 11:59 PM, 22nd February 2025.
+Please submit your task by replying career@enaema.com along with these following information below:
 
 - Project deployment URL
 - An admin credentials to check dashboard functionalities
 - A customer credentials to check shopping cart functionalities
 - GitHub repository (ensure that your code visibility is set to public for further assessment)
 
-Please note: We have included some assets here to inspire you on how the user interface should look. While it is not mandatory to follow them, feel free to use them as a reference and create your own unique idea.
+Please note: We have included some assets here to inspire you on how the user interface should look. While it is not mandatory to follow them, feel free to use them as a reference and create your own unique idea. Submission deadline 11:59 PM, 22nd February 2025.
